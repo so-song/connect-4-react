@@ -1,0 +1,15 @@
+.red {
+  background: #ff4e4a;
+}
+
+.yellow {
+  background: #ffe13f;
+}
+
+.white {
+  background: white;
+}
+
+.white:hover {
+  background: #b5b5b5;
+}

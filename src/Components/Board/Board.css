@@ -1,0 +1,26 @@
+table {
+  background: #2277aa;
+  padding: 10px;
+  display: inline-block;
+  border-radius: 10px;
+}
+
+td {
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  text-align: center;
+  background: white;
+}
+
+td:hover {
+  background: #b5b5b5;
+}
+
+tr {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 400px;
+  height: 48px;
+}
